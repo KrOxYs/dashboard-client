@@ -12,7 +12,7 @@ export default function page() {
     <PageContainer>
       <div className="space-y-2">
         <Breadcrumbs items={breadcrumbItems} />
-        <UserClient data={users} />
+        <UserClient />
       </div>
     </PageContainer>
   );
