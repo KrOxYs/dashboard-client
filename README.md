@@ -1,6 +1,6 @@
 ## Getting Started
 
-Follow these steps to clone the repository and start the development server:
+Follow these steps to clone the repository and start the development server: (wait until the server is running)
 
 - `git clone repo`
 - `npm install`
